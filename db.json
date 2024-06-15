@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Kimdir",
+      "email": "kimdir@yahoo.com",
+      "number": "081",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": "4",
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333333"
+    },
+    {
+      "id": "3345",
+      "name": "Muhammadjon",
+      "email": "muhammadjonmajidov0@gmail.com",
+      "number": "998934679656"
+    },
+    {
+      "id": "ce54",
+      "name": "Husan",
+      "email": "husan@gmail.com",
+      "number": "998900916607"
+    }
+  ]
+}
